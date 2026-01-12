@@ -1,0 +1,8 @@
+{
+  "name": "Talk to me - Premium Connections",
+  "description": "A premium dating landing page featuring personalized video call subscriptions and an interactive AI-powered chat experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
